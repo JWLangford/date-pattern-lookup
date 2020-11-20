@@ -6,8 +6,6 @@ A simple library to get the date pattern for a locale. Useful if you have a date
 
 ## Getting Started
 
----
-
 ### Installation
 
 ```
