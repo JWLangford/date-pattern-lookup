@@ -29,7 +29,7 @@ import { KeyboardDatePicker } from "@material-ui/pickers";
 function MyDatePicker() {
   const code = "en-US";
   const pattern = shortPatternLookup.get(code);
-  // pattern = M/d/yyyy
+  // pattern = MM/dd/yyyy
 
   return (
     <KeyboardDatePicker

@@ -56,7 +56,7 @@ export const shortPatternLookup: Map<string, string> = new Map([
   ["es-PY", "dd/MM/yyyy"],
   ["es-SV", "MM-dd-yyyy"],
   ["es-UY", "dd/MM/yyyy"],
-  ["es-US", "M/d/yyyy"],
+  ["es-US", "MM/dd/yyyy"],
   ["es-VE", "dd/MM/yyyy"],
   ["et-EE", "d.MM.yyyy"],
   ["fi-FI", "d.M.yyyy"],
