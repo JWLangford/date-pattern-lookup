@@ -74,6 +74,7 @@ export const shortPatternLookup: Map<string, string> = new Map([
   ["it-CH", "dd.MM.yyyy"],
   ["it-IT", "dd/MM/yyyy"],
   ["iw-IL", "dd/MM/yyyy"],
+  ["ja", "yyyy/MM/dd"],
   ["ja-JP", "yyyy/MM/dd"],
   ["ko-KR", "yyyy. M. d"],
   ["lt-LT", "yyyy.M.d"],
